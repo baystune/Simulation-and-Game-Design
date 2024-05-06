@@ -1,0 +1,14 @@
+C:\Users\naina\Desktop\VS Codes\Classes Assignment\Classes Assignment\bin\Debug\net8.0\Classes Assignment.exe
+C:\Users\naina\Desktop\VS Codes\Classes Assignment\Classes Assignment\bin\Debug\net8.0\Classes Assignment.deps.json
+C:\Users\naina\Desktop\VS Codes\Classes Assignment\Classes Assignment\bin\Debug\net8.0\Classes Assignment.runtimeconfig.json
+C:\Users\naina\Desktop\VS Codes\Classes Assignment\Classes Assignment\bin\Debug\net8.0\Classes Assignment.dll
+C:\Users\naina\Desktop\VS Codes\Classes Assignment\Classes Assignment\bin\Debug\net8.0\Classes Assignment.pdb
+C:\Users\naina\Desktop\VS Codes\Classes Assignment\Classes Assignment\obj\Debug\net8.0\Classes Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naina\Desktop\VS Codes\Classes Assignment\Classes Assignment\obj\Debug\net8.0\Classes Assignment.AssemblyInfoInputs.cache
+C:\Users\naina\Desktop\VS Codes\Classes Assignment\Classes Assignment\obj\Debug\net8.0\Classes Assignment.AssemblyInfo.cs
+C:\Users\naina\Desktop\VS Codes\Classes Assignment\Classes Assignment\obj\Debug\net8.0\Classes Assignment.csproj.CoreCompileInputs.cache
+C:\Users\naina\Desktop\VS Codes\Classes Assignment\Classes Assignment\obj\Debug\net8.0\Classes Assignment.dll
+C:\Users\naina\Desktop\VS Codes\Classes Assignment\Classes Assignment\obj\Debug\net8.0\refint\Classes Assignment.dll
+C:\Users\naina\Desktop\VS Codes\Classes Assignment\Classes Assignment\obj\Debug\net8.0\Classes Assignment.pdb
+C:\Users\naina\Desktop\VS Codes\Classes Assignment\Classes Assignment\obj\Debug\net8.0\Classes Assignment.genruntimeconfig.cache
+C:\Users\naina\Desktop\VS Codes\Classes Assignment\Classes Assignment\obj\Debug\net8.0\ref\Classes Assignment.dll

@@ -1,0 +1,14 @@
+C:\Users\naina\Desktop\VS Codes\For Loop\For Loop\bin\Debug\net8.0\For Loop.exe
+C:\Users\naina\Desktop\VS Codes\For Loop\For Loop\bin\Debug\net8.0\For Loop.deps.json
+C:\Users\naina\Desktop\VS Codes\For Loop\For Loop\bin\Debug\net8.0\For Loop.runtimeconfig.json
+C:\Users\naina\Desktop\VS Codes\For Loop\For Loop\bin\Debug\net8.0\For Loop.dll
+C:\Users\naina\Desktop\VS Codes\For Loop\For Loop\bin\Debug\net8.0\For Loop.pdb
+C:\Users\naina\Desktop\VS Codes\For Loop\For Loop\obj\Debug\net8.0\For Loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naina\Desktop\VS Codes\For Loop\For Loop\obj\Debug\net8.0\For Loop.AssemblyInfoInputs.cache
+C:\Users\naina\Desktop\VS Codes\For Loop\For Loop\obj\Debug\net8.0\For Loop.AssemblyInfo.cs
+C:\Users\naina\Desktop\VS Codes\For Loop\For Loop\obj\Debug\net8.0\For Loop.csproj.CoreCompileInputs.cache
+C:\Users\naina\Desktop\VS Codes\For Loop\For Loop\obj\Debug\net8.0\For Loop.dll
+C:\Users\naina\Desktop\VS Codes\For Loop\For Loop\obj\Debug\net8.0\refint\For Loop.dll
+C:\Users\naina\Desktop\VS Codes\For Loop\For Loop\obj\Debug\net8.0\For Loop.pdb
+C:\Users\naina\Desktop\VS Codes\For Loop\For Loop\obj\Debug\net8.0\For Loop.genruntimeconfig.cache
+C:\Users\naina\Desktop\VS Codes\For Loop\For Loop\obj\Debug\net8.0\ref\For Loop.dll
