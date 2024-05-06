@@ -1,0 +1,14 @@
+C:\Users\naina\Desktop\VS Codes\Loops\Loops\bin\Debug\net8.0\Loops.deps.json
+C:\Users\naina\Desktop\VS Codes\Loops\Loops\bin\Debug\net8.0\Loops.dll
+C:\Users\naina\Desktop\VS Codes\Loops\Loops\bin\Debug\net8.0\Loops.pdb
+C:\Users\naina\Desktop\VS Codes\Loops\Loops\obj\Debug\net8.0\Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naina\Desktop\VS Codes\Loops\Loops\obj\Debug\net8.0\Loops.AssemblyInfoInputs.cache
+C:\Users\naina\Desktop\VS Codes\Loops\Loops\obj\Debug\net8.0\Loops.AssemblyInfo.cs
+C:\Users\naina\Desktop\VS Codes\Loops\Loops\obj\Debug\net8.0\Loops.csproj.CoreCompileInputs.cache
+C:\Users\naina\Desktop\VS Codes\Loops\Loops\obj\Debug\net8.0\Loops.dll
+C:\Users\naina\Desktop\VS Codes\Loops\Loops\obj\Debug\net8.0\refint\Loops.dll
+C:\Users\naina\Desktop\VS Codes\Loops\Loops\obj\Debug\net8.0\Loops.pdb
+C:\Users\naina\Desktop\VS Codes\Loops\Loops\obj\Debug\net8.0\ref\Loops.dll
+C:\Users\naina\Desktop\VS Codes\Loops\Loops\bin\Debug\net8.0\Loops.exe
+C:\Users\naina\Desktop\VS Codes\Loops\Loops\bin\Debug\net8.0\Loops.runtimeconfig.json
+C:\Users\naina\Desktop\VS Codes\Loops\Loops\obj\Debug\net8.0\Loops.genruntimeconfig.cache
